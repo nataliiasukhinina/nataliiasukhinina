@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nataliia Sukhinina
 - 👀 I’m interested in Angular
-- 🌱 I’m currently learning Angular state management (ngRx and signals) and AWS Cloud
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sing in a Ukrainian ansamble 
 
